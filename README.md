@@ -1,8 +1,8 @@
 # Elite Crop Template
 
-PSD file had converted into code.
+**_PSD file had converted into code._**
 
-## I used the following skills to convert the PSD file :
+### I used the following skills to convert the PSD file :
 
 - HTML
 - CSS
