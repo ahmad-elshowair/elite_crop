@@ -1,0 +1,72 @@
+
+/* Start of style small screen */
+@media (max-width: 576px){
+
+
+    /* start of pricing table style */
+    
+    /* end of pricing table style */
+
+    /* start of statistics style */
+    
+    /* end of statistics style */
+
+    /* start of contact us style */
+    /* end of contact us style */
+    
+    /* start of footer style */
+    
+    /* end of footer style */
+
+}
+/* end of style small screen */
+
+/* start of style media screen */
+@media (max-width: 768px){
+     
+
+    /* start of testimoial style */
+    
+    /* end of testimoial style */
+
+    /* start of pricing table style */
+    
+    /* end of pricing table style */
+
+    /* start of choose us style */
+    
+    /* end of choose us style */
+
+    /* start of statistics style */
+    /* end of statistics style */
+
+    /* start of contact us style */
+    
+    /* start of contact us style */
+    
+    /* start of footer style */
+    
+    /* end of footer style */
+
+    /* start of copy right style */
+    /* end of copy right style */
+}
+/* end of style media screen */
+
+/* start of Large screen / desktop */
+@media (max-width: 992px){
+    
+
+    
+
+    /* start of choose us style */
+    
+    /* end of choose us style */
+}
+/* end of Large screen / desktop */
+
+/* Start Extra large screen / wide desktop */
+@media (max-width: 1200px){
+    
+}
+/* End Extra large screen / wide desktop */
